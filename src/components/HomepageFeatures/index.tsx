@@ -63,7 +63,7 @@ export default function HomepageFeatures(): JSX.Element {
 					{/* {FeatureList.map((props, idx) => (
 						<Feature key={idx} {...props} />
 					))} */}
-					hello world
+					hello world 123
 				</div>
 			</div>
 		</section>
